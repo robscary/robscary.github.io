@@ -4,15 +4,19 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a husband, father, musician, technologist, artist, gamer, and engineer, currently living and working 
+in Ithaca, NY, in the heart of the central New York Finger Lakes region. Best way to reach me
+is via email at [robscary@gmail.com](mailto:robscary@gmail.com). I look forward to hearing from you.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Music
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've been fortunate to have a varied and interesting musical career to date. I've played with a number
+of small and large orchestras, accompanied jazz ensembles and choirs, played for countless swing dancers,
+and been in the pit for numerous operas and musicals. These days, I mostly do electronic music, either
+as a solo performer or as one half of [High Anxiety Cabaret](https://soundcloud.com/user-277778377)
+with [Tom Bruce](https://tombrucemusic.space/).
 
+My primary instruments are drums / percussion, electric bass, and keyboards / synthesizers of all shape,
+size, and color. 
 
-[jekyll-organization]: https://github.com/jekyll
+More information about my music, including links to recordings and videos, is on my [music](/music) page.
